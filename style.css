@@ -1,0 +1,38 @@
+/*applied throughout website*/
+*{
+    background-color:#245953;
+    
+}
+img{
+    width: 200px;
+    height: 200px;
+    border:10px solid #ADE4DB
+}
+h1{
+    font-family: sofia,sans-serif;
+    color: white;
+}
+h2{
+    font-family: pacifico;
+    color: white;
+}
+p{
+    font-family: bruno ace sc;
+    color: white;
+}
+li{
+    font-family: bruno ace sc;
+    color: white;
+
+}
+table{
+    font-family: bruno ace sc;
+    color:white ;
+
+}
+li{
+    list-style: none;
+}
+.red{
+    margin-left: 40%
+}
